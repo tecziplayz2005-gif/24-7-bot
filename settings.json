@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blockbashersmc.play.hosting",
-    "port": 25887,
+    "ip": "chaosphagesmp.play.hosting",
+    "port": 25669,
     "version": "1.20.1",
     "try-creative": false
   },
